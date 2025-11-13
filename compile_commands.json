@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/nishanth/Documents/ai-git-agent/build",
+  "command": "/usr/bin/g++  -I/home/nishanth/Documents/ai-git-agent/include -g -std=gnu++17 -o CMakeFiles/AIGitAgent.dir/src/main.cpp.o -c /home/nishanth/Documents/ai-git-agent/src/main.cpp",
+  "file": "/home/nishanth/Documents/ai-git-agent/src/main.cpp",
+  "output": "CMakeFiles/AIGitAgent.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/nishanth/Documents/ai-git-agent/build",
+  "command": "/usr/bin/g++  -I/home/nishanth/Documents/ai-git-agent/include -g -std=gnu++17 -o CMakeFiles/AIGitAgent.dir/src/GitHandler.cpp.o -c /home/nishanth/Documents/ai-git-agent/src/GitHandler.cpp",
+  "file": "/home/nishanth/Documents/ai-git-agent/src/GitHandler.cpp",
+  "output": "CMakeFiles/AIGitAgent.dir/src/GitHandler.cpp.o"
+},
+{
+  "directory": "/home/nishanth/Documents/ai-git-agent/build",
+  "command": "/usr/bin/g++  -I/home/nishanth/Documents/ai-git-agent/include -g -std=gnu++17 -o CMakeFiles/AIGitAgent.dir/src/GitHubAPI.cpp.o -c /home/nishanth/Documents/ai-git-agent/src/GitHubAPI.cpp",
+  "file": "/home/nishanth/Documents/ai-git-agent/src/GitHubAPI.cpp",
+  "output": "CMakeFiles/AIGitAgent.dir/src/GitHubAPI.cpp.o"
+},
+{
+  "directory": "/home/nishanth/Documents/ai-git-agent/build",
+  "command": "/usr/bin/g++  -I/home/nishanth/Documents/ai-git-agent/include -g -std=gnu++17 -o CMakeFiles/AIGitAgent.dir/src/Utils.cpp.o -c /home/nishanth/Documents/ai-git-agent/src/Utils.cpp",
+  "file": "/home/nishanth/Documents/ai-git-agent/src/Utils.cpp",
+  "output": "CMakeFiles/AIGitAgent.dir/src/Utils.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/home/nishanth/Documents/ai-git-agent/build/CMakeFiles/AIGitAgent.dir
+/home/nishanth/Documents/ai-git-agent/build/CMakeFiles/edit_cache.dir
+/home/nishanth/Documents/ai-git-agent/build/CMakeFiles/rebuild_cache.dir
